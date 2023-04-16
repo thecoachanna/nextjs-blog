@@ -15,7 +15,7 @@ export default function Home() {
         <p>
           I live in Atlanta and enjoy walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!
         </p>
-        <p>Follow me on <a href='https://twitter.com/_annanettles'>Twitter!</a></p>
+        <p>Follow me on <a href='https://twitter.com/_annanettles'>Twitter</a></p>
         
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}

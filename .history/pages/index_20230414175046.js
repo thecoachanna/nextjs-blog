@@ -10,12 +10,11 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Anna! A weight-inclusive fitness coach turned Software Engineer.
+          Hi! I'm Anna, a weight-inclusive fitness coach turned Software Engineer Intern.
         </p>
         <p>
-          I live in Atlanta and enjoy walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!
+          Anna loves living in Atlanta, walking the BeltLine, lifting weights, watching reality dating shows with her fiance’, and making new friends in tech!
         </p>
-        <p>Follow me on <a href='https://twitter.com/_annanettles'>Twitter!</a></p>
         
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}

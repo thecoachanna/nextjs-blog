@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Anna Nettles';
-export const siteTitle = "Anna's Blog";
+export const siteTitle = "Anna's Blog';
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Anna Nettles' Professional Blog Site"
+          content="Learn how to build a personal website using Next.js"
         />
         <meta
           property="og:image"
@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/../public/images/profile.jpg"
+              src="/../public/images/profile.png"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -43,7 +43,7 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <Image
                 priority
-                src="/../public/images/profile.jpg"
+                src="/../public/images/profile.png"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}

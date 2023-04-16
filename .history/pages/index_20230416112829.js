@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Anna! A full-stack software engineer and weight-inclusive fitness coach.
+          Hi, I'm Anna! A full-stack software engineer and .
         </p>
         <p>
           I live in Atlanta and enjoy walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!

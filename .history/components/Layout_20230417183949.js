@@ -3,7 +3,7 @@ import Image from 'next/image';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
-import profilePic from './/../public/images/profile.png'
+import profilePic from '/../public/images/profile.png'
 
 const name = 'Anna Nettles';
 export const siteTitle = "Anna's Blog";
